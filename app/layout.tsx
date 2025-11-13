@@ -7,6 +7,7 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
+    title: '10553, 10792, 10681',
   icons: {
     icon: [
       {
